@@ -1,2 +1,2 @@
 # This is a proposed new feature
-# This will create a merge conflict
+# This will also create a merge conflict
